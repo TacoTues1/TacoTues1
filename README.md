@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Alfonz Perez
+# Hi, I'm Alfonz Perez
 
 ### IT Specialist | Full Stack Developer
 
@@ -10,7 +10,7 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&col
 
 ---
 
-### 🚀 About Me
+### About Me
 
 💻 IT Specialist & Developer  
 🌐 Building web applications with Next.js  
