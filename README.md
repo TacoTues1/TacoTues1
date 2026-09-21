@@ -18,6 +18,8 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&col
 🗄️ Working with Supabase and MongoDB  
 🐧 Learning Linux and Cybersecurity  
 
+🌐 **Portfolio:** [alfonz.dev](https://alfonz.dev/)
+
 ---
 
 ## 🛠️ Tech Stack
