@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**TacoTues1/TacoTues1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Alfonz Perez
 
-Here are some ideas to get you started:
+### IT Specialist | Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00CFFF&center=true&vCenter=true&width=650&lines=IT+Specialist;Full+Stack+Developer;Next.js+Developer;Networking+%26+Technical+Support"
+/>
+
+---
+
+### 🚀 About Me
+
+💻 IT Specialist & Developer  
+🌐 Building web applications with Next.js  
+🛠️ Experience with Windows, Networking & Troubleshooting  
+🗄️ Working with Supabase and MongoDB  
+🐧 Learning Linux and Cybersecurity  
+
+---
+
+## 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,nodejs,mongodb,supabase,git,github,vscode,linux" />
+
+---
+
+</div>
