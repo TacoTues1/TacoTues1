@@ -27,5 +27,14 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&col
 <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,nodejs,mongodb,supabase,git,github,vscode,linux" />
 
 ---
+## 🔥 GitHub Streak
+
+<img
+  src="https://streak-stats.demolab.com?user=TacoTues1&theme=tokyonight&hide_border=true"
+  width="500"
+/>
+
+---
+
 
 </div>
